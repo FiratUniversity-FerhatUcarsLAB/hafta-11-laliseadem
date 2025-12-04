@@ -26,4 +26,23 @@ public class Exercise4_2 {
 
 
 
+2) baffle metoduna ilk gönderilen blimp değeri 5 tir.
+3) Soru: Programın ürettiği tüm çıktı:
+5
+ping
+55
+pong
+5
+ping
+
+    4) Hangi satırlar birden fazla kez çalıştı?
+
+Tekrar eden satırlar:
+
+zippo metodunun tanımı → satır:
+public static void zippo(...) → #3 ve #10
+
+if satırı → if (flag < 0) → #4 ve #11
+
+
 
